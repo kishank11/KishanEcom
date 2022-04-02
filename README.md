@@ -1,11 +1,11 @@
-# E-STORE
+# KishanEcom
 
-![estorescreeenshot](./client/public/images/estoremd.png)
+
 A fully functional eCommerce mock store.
 Features include shopping cart, product review/ratings, product pagination, user profile, order history, admin product
 management, admin user management, admin order details, PayPal API integration, delivery pipeline, and database seeder.
 
-[heroku-link](https://vast-shore-24517.herokuapp.com/)
+
 
 ## Installation
 
